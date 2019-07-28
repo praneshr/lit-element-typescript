@@ -1,3 +1,3 @@
 export default {
-  ROUTER: "ROUTER"
+  ROUTER: 'ROUTER',
 };
